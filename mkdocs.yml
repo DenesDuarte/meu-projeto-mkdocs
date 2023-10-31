@@ -1,0 +1,7 @@
+site_name: Projeto de Arquitetura de Software
+site_url: https://github.com/DenesDuarte/meu_projeto_mkdocs.git
+
+nav:
+  - Home: 'index.md'
+
+theme: readthedocs
