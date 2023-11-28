@@ -9,12 +9,6 @@ Este repositório é destinado ao grupo - [**Agile Minds**](Link do repositório
 
 
 # Contribuidores
-|Foto | Matrícula | Nome | GitHub | E-mail|
-|:--:|:--:|:--:|:--:|:--:|
-|<img src="./site/img/Denes.jpeg" width="40" height="40">| 2022123tads0209 | Denes Duarte | [Denes Duarte](https://github.com/DenesDuarte)|denesduarte.2016@gmail.com|
-|<img src="./site/img/Octodex.jpg" width="40" height="40">| 2022123tads0209 | Denes Duarte | [Denes Duarte](https://github.com/DenesDuarte)|denesduarte.2016@gmail.com|
-
-
 
 
 <table style="width:100%">
@@ -29,7 +23,7 @@ Este repositório é destinado ao grupo - [**Agile Minds**](Link do repositório
     <td><img src="./site/img/Denes.jpeg" width="40" height="40"></td>
     <td>2022123tads0209</td>
     <td>Denes Duarte</td>
-    <td>[Denes Duarte](https://github.com/DenesDuarte)</td>
+    <td><a href="https://github.com/DenesDuarte" title="você será direcionado para o github">Denes Duarte</a></td>
     <td>denesduarte.2016@gmail.com</td>
   </tr>
  
