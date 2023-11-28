@@ -16,3 +16,21 @@ Este repositório é destinado ao grupo - [**Agile Minds**](Link do repositório
 
 
 
+
+<table style="width:100%">
+  <tr>
+    <th>Foto</th>
+    <th>Matrícula</th>
+    <th>Nome</th>
+    <th>GitHub</th>
+    <th>E-mail</th>
+  </tr>
+  <tr>
+    <td><img src="./site/img/Denes.jpeg" width="40" height="40"></td>
+    <td>2022123tads0209</td>
+    <td>Denes Duarte</td>
+    <td>[Denes Duarte](https://github.com/DenesDuarte)</td>
+    <td>denesduarte.2016@gmail.com</td>
+  </tr>
+ 
+</table>
