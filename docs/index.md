@@ -20,11 +20,10 @@ Este repositório é destinado ao grupo - [**Agile Minds**](Link do repositório
     <th>E-mail</th>
   </tr>
   <tr>
-    <td><img src="./site/img/Denes.jpeg" width="40" height="40"></td>
+    <td><img src="./img/Denes.jpeg" width="40" height="40"></td>
     <td>2022123tads0209</td>
     <td>Denes Duarte</td>
     <td><a href="https://github.com/DenesDuarte" title="você será direcionado para o github">Denes Duarte</a></td>
     <td>denesduarte.2016@gmail.com</td>
   </tr>
- 
-</table>
+ </table>
